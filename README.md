@@ -1,122 +1,70 @@
-# 👨🏻‍💻 João Victor Ventura Martins
+# 🧑🏻‍💻 Joao Victor Ventura Martins - Fullstack Developer
 
-**`FullStack Developer`**
-
-👋 Olá! Meu nome é João Victor Ventura Martins, sou estudante de Ciência da Computação na PUC Minas e atuo atualmente como Analista de QA em um sistema cloud. Sou desenvolvedor fullstack, com maior interesse e foco em desenvolvimento frontend, embora também explore o backend quando necessário.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ventura-martins-6b47aa251/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.instagram.com/dev.joaov/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-</p>
+💻 Apaixonado e entusiasta do Front-end  
+💡 Curioso por novas tecnologias, metodologias e ferramentas  
+🚀 Em constante aprendizado.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-<img
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/>
-<img
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Sou **estudante de Ciência da Computação** e um verdadeiro **entusiasta da programação e da tecnologia** como ferramentas de transformação social.  
+Acredito que **um código bem escrito é uma forma de arte**, capaz de unir lógica, criatividade e impacto real.
 
-<br/>
-<br/>
+Tenho foco em **Desenvolvimento Front-end**, especialmente com **Next.js** e **TailwindCSS**, onde aplico minha lógica e senso de organização para criar **estruturas escaláveis, concisas e bem planejadas**.  
+Minha experiência como **QA (Quality Assurance)** fortaleceu minha atenção aos detalhes, garantindo a **qualidade, confiabilidade e consistência** dos projetos em que atuo.
 
-### 📊 Estatísticas
+No **Back-end**, possuo experiência com **C# e .NET**, além de utilizar **TypeScript com Node.js**, o que me permite desenvolver soluções completas, integrando o front e o back e compreendendo **todo o ciclo de desenvolvimento** de uma aplicação.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoVictorVM&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+Possuo conhecimento em **Git**, garantindo um versionamento organizado e colaborativo dos projetos, e também em **Figma**, que utilizo para **prototipar interfaces** e iniciar o desenvolvimento com uma **base visual sólida e bem estruturada**.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorVM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+Sou movido por desafios e aprendizado constante.  
+Busco continuamente **aprimorar meus conhecimentos**, explorando **novas linguagens, ferramentas e metodologias** que ampliem meu repertório e me tornem um profissional cada vez mais completo.
 
-</p>
+
+---
+
+### 🧰 Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" style="margin: 3px;" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" style="margin: 3px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 3px;" />
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorVM&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorVM&layout=compact&langs_count=7&theme=transparent"/>
+</a>
+
+</div>
+
+---
+
+### 🌐 Vamos nos conectar?
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfólio-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-eight-lemon-57.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jvvmartins/)
+[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev.joaov/)
+[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail)](mailto:jvmartinscv@gmail.com)
+
+</div>
