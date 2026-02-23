@@ -8,20 +8,11 @@ Atualmente com maior foco em Frontend Engineering, trabalho na definição de pa
 
 ### Tech Stack
 
-**Frontend**
-- React • Next.js • Vue.js • HTML • CSS • TailwindCSS • SASS • Bootstrap
-
-**Backend**
-- Node.js • NestJS • .NET
-
-**Database & ORM**
-- PostgreSQL • SQLite • Prisma ORM
-
-**Linguagens**
-- JavaScript • TypeScript • C#
-
-**Ferramentas**
-- Git • GitHub • Figma • Photoshop
+- **Frontend:** React • Next.js • Vue.js • HTML • CSS • TailwindCSS • SASS • Bootstrap
+- **Backend:** Node.js • NestJS • .NET
+- **Database & ORM:** PostgreSQL • SQLite • Prisma ORM
+- **Linguagens:** JavaScript • TypeScript • C#
+- **Ferramentas:** Git • GitHub • Figma • Photoshop
 
 ---
 
