@@ -1,6 +1,6 @@
 # João Victor Ventura Martins
 
-Software Engineer, migrando meu foco para **Go**, sem deixar de lado o front com **React** e **Next.js**.
+Software Engineer · Go & React
 
 ## Sobre mim
 
@@ -12,7 +12,7 @@ Nas horas vagas, sou entusiasta de GameDev, boa parte dos meus repositórios sã
 
 ## Stack
 
-**Linguagens:** Go, TypeScript, JavaScript, Python, C#
+**Linguagens:** Go, TypeScript, JavaScript
 
 **Frontend:** React, Next.js, Vue.js, TailwindCSS
 
@@ -21,10 +21,3 @@ Nas horas vagas, sou entusiasta de GameDev, boa parte dos meus repositórios sã
 **Database:** PostgreSQL, SQLite
 
 **Ferramentas:** Git, GitHub, Figma, GameMaker, Unity
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorVM&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorVM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
