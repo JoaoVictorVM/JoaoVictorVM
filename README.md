@@ -12,9 +12,11 @@ Nas horas vagas, sou entusiasta de GameDev, boa parte dos meus repositórios sã
 
 #### Featured Projects
 
-[![JoaoVictorVM/focuzen](https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/focuzen?width=280)](https://github.com/JoaoVictorVM/focuzen)
-[![JoaoVictorVM/git-repo-rewind](https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/git-repo-rewind?width=280)](https://github.com/JoaoVictorVM/git-repo-rewind)
-[![JoaoVictorVM/gitcitybanner](https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/gitcitybanner?width=280)](https://github.com/JoaoVictorVM/gitcitybanner)
+<p>
+  <a href="https://github.com/JoaoVictorVM/focuzen"><img width="32%" src="https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/focuzen" alt="focuzen"></a>
+  <a href="https://github.com/JoaoVictorVM/git-repo-rewind"><img width="32%" src="https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/git-repo-rewind" alt="git-repo-rewind"></a>
+  <a href="https://github.com/JoaoVictorVM/gitcitybanner"><img width="32%" src="https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/gitcitybanner" alt="gitcitybanner"></a>
+</p>
 
 #### Technologies and tools
 
