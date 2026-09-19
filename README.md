@@ -10,6 +10,12 @@ Tenho interesse especial em arquitetura de software, tanto pensando em System De
 
 Nas horas vagas, sou entusiasta de GameDev, boa parte dos meus repositórios são jogos feitos por curiosidade de entender como as coisas funcionam por baixo dos panos e por amor pelos games.
 
+#### Featured Projects
+
+[![JoaoVictorVM/focuzen](https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/focuzen?width=280)](https://github.com/JoaoVictorVM/focuzen)
+[![JoaoVictorVM/git-repo-rewind](https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/git-repo-rewind?width=280)](https://github.com/JoaoVictorVM/git-repo-rewind)
+[![JoaoVictorVM/gitcitybanner](https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/gitcitybanner?width=280)](https://github.com/JoaoVictorVM/gitcitybanner)
+
 #### Technologies and tools
 
 ![Go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)
