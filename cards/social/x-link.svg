@@ -2,5 +2,4 @@
   <title id="title">x</title>
   <rect x=".5" y=".5" width="30" height="33" rx="7" fill="#FFFFFF" stroke="#E7E7E4"/>
   <path d="M18.901 19.432 L17.322 19.432 L15.469 16.813 L13.637 19.432 L12.099 19.432 L14.758 15.986 L12.222 12.568 L13.747 12.568 L15.551 15.207 L17.322 12.568 L18.792 12.568 L16.214 16.014 Z" fill="#202024" fill-rule="evenodd"/>
-  <path d="M12.099 24 H18.901" fill="none" stroke="#A1A1A5" stroke-width=".8"/>
 </svg>

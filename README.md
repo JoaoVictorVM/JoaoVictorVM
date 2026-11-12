@@ -34,8 +34,6 @@
 ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/claude_code-000000?style=for-the-badge&logo=claude&logoColor=white)
 
-#### Socials
-
 <p align="center">
-  <a href="https://joaovictorvm.com"><img src="./cards/social/portfolio.svg" alt="joaovictorvm.com" align="middle"></a> / <a href="https://www.linkedin.com/in/jvvmartins/"><img src="./cards/social/linkedin.svg" alt="LinkedIn" align="middle"></a> / <a href="https://www.instagram.com/joaovictorvm__/"><img src="./cards/social/instagram.svg" alt="Instagram" align="middle"></a> / <a href="https://x.com/joaovictorvm_"><img src="./cards/social/x.svg" alt="X" align="middle"></a> / <a href="mailto:jvmartinscv@gmail.com"><img src="./cards/social/email.svg" alt="Email" align="middle"></a>
+  <a href="https://joaovictorvm.com"><img src="./cards/social/portfolio-link.svg" alt="joaovictorvm.com" align="middle"></a> / <a href="https://www.linkedin.com/in/jvvmartins/"><img src="./cards/social/linkedin-link.svg" alt="LinkedIn" align="middle"></a> / <a href="https://www.instagram.com/joaovictorvm__/"><img src="./cards/social/instagram-link.svg" alt="Instagram" align="middle"></a> / <a href="https://x.com/joaovictorvm_"><img src="./cards/social/x-link.svg" alt="X" align="middle"></a> / <a href="mailto:jvmartinscv@gmail.com"><img src="./cards/social/email-link.svg" alt="Email" align="middle"></a>
 </p>
