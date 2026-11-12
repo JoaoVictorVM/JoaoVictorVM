@@ -1,6 +1,8 @@
-# João Victor Ventura Martins
-
-Software Engineer
+<p align="center">
+  <a href="https://joaovictorvm.com">
+    <img src="./cards/introduction.svg" alt="João Victor Ventura Martins — AI Engineer. I build AI products. Portfolio: joaovictorvm.com." width="100%">
+  </a>
+</p>
 
 #### Featured Projects
 
