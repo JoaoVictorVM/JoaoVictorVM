@@ -4,12 +4,13 @@
   </a>
 </p>
 
-#### Featured Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./cards/what-im-building-dark.svg">
+  <img src="./cards/what-im-building-light.svg" alt="What I’m building" width="100%">
+</picture>
 
-<p>
-  <a href="https://github.com/JoaoVictorVM/focuzen"><img width="32%" src="https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/focuzen" alt="focuzen"></a>
-  <a href="https://github.com/JoaoVictorVM/git-repo-rewind"><img width="32%" src="https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/git-repo-rewind" alt="git-repo-rewind"></a>
-  <a href="https://github.com/JoaoVictorVM/gitcitybanner"><img width="32%" src="https://readme-cards-generator.vercel.app/api/repo/JoaoVictorVM/gitcitybanner" alt="gitcitybanner"></a>
+<p align="center">
+<a href="https://github.com/JoaoVictorVM/gazua"><img src="./cards/gazua.svg" width="33.33%" alt="Gazua — an open-source security test suite for AI agents. Python."></a><a href="https://github.com/JoaoVictorVM/comporta"><img src="./cards/comporta.svg" width="33.33%" alt="Comporta — an open-source LLM gateway with usage metering, limits, and budgets. Go."></a><a href="https://github.com/JoaoVictorVM/lastro"><img src="./cards/lastro.svg" width="33.33%" alt="Lastro — a toolkit for supervised AI agents to explore web apps and back up findings with evidence. Python."></a>
 </p>
 
 #### Technologies and tools
