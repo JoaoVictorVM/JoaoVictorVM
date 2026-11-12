@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="./cards/focus/ai-engineer.svg" width="33.33%" alt="AI Engineer. I build AI tools for agents, from security testing to LLM infrastructure."><img src="./cards/focus/software-engineer.svg" width="33.33%" alt="Software Engineer. My foundation is in software engineering, with projects in Go, Python, and TypeScript."><img src="./cards/focus/open-source.svg" width="33.33%" alt="Open Source. I share the tools I build so others can use them, explore the code, and contribute.">
+<img src="./cards/focus/ai-engineering.svg" width="33.33%" alt="AI Engineer. I build AI tools for agents, from security testing to LLM infrastructure."><img src="./cards/focus/software-engineering.svg" width="33.33%" alt="Software Engineer. My foundation is in software engineering, with projects in Go, Python, and TypeScript."><img src="./cards/focus/open-source-work.svg" width="33.33%" alt="Open Source. I share the tools I build so others can use them, explore the code, and contribute.">
 </p>
 
 <picture>
